@@ -1,0 +1,17 @@
+table,th,td{
+    border: solid 1px #000;
+    padding: 10px;
+    border-collapse: collapse;
+}
+table{
+    width: 750px;
+}
+th,td{
+    width: 300px;
+}
+th{
+    background-color: #ffe89e;
+}
+.sell-left{
+    width: 115px;
+}
